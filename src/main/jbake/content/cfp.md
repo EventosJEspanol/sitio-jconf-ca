@@ -14,7 +14,7 @@ JConf will be hosted on-line on **november 7**, being a conference by and for th
 
 Speak at JConf 2020!
 ====================
-The Guatemala Java Users group -[GuateJUG](http://www.guate-jug.net)- is pleased to invite all the people interested in sharing knowledge with **talks and workshops for beginners and senior developers**.
+Java User Groups from Central America are pleased to invite all the people interested in sharing knowledge with **talks and workshops for beginners and senior developers**.
 
 Do you have something interesting to share with the community? Innovations made with Java?, Java success stories?. **We and the JConf Attendees wanna know about you**.  
 
@@ -78,10 +78,10 @@ It is important to consider:
 Important dates
 ===============
 
-CFP opens: **24/02/2020**
+CFP opens: **2020/10/05**
 
-CFP ends: **24/08/2020**
+CFP ends: **2020/11/06**
 
-Proposals approval announcement and final schedule: **01/09/2020**
+Proposals approval announcement and final schedule: **2020/11/09**
 
 Thank you again for contributing with the Java World!

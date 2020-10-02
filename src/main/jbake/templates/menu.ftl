@@ -5,7 +5,7 @@
           <div class="container">
             <div class="col-md-6 col-sm-6">
               <div class="info-bar-address">
-                 <i class="icon-location-pin"></i> Online, november 7, 2020
+                 <i class="icon-location-pin"></i> Online, december 5, 2020
               </div>
             </div>
             <div class="col-md-6 col-sm-6">

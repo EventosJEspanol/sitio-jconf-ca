@@ -72,7 +72,7 @@
     <script src="<#if (content.rootpath)??>${content.rootpath}<#else></#if>js/initializers.js"></script>
     <script>
         // Set the date we're counting down to
-        var countDownDate = new Date("Nov 7, 2020 08:00:00").getTime();
+        var countDownDate = new Date("Dec 5, 2020 09:00:00").getTime();
 
         // Update the count down every 1 second
         var x = setInterval(function() {

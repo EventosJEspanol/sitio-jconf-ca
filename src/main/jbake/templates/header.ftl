@@ -59,7 +59,7 @@
         <!-- Twitter Card data -->
         <meta name="twitter:site" content="@guatejug">
         <meta name="twitter:creator" content="@tuxtor">
-        <meta name="twitter:image" content="http://guate-jug.net/jconf2020/img/globalheader.jpg">
+        <meta name="twitter:image" content="https://jconf.org/img/globalheader.jpg">
             <#if (content.summary)??>
             <meta name="description" content="${content.summary}" />
               <meta name="twitter:card" value="${content.summary}">
@@ -68,13 +68,13 @@
             </#if>
 
             <!-- Open Graph data -->
-            <meta property="og:title" content="JConf Guatemala 2020" />
+            <meta property="og:title" content="JConf Central America 2020" />
             <meta property="og:type" content="article" />
             <meta property="og:image" content="http://guate-jug.net/jconf2020/img/globalheader.jpg" />
             <#if (content.summary)??>
               <meta property="og:description" content="${content.summary}" />
             <#else>
-              <meta property="og:description" content="JConf Guatemala 2020, the biggest JVM Event in Central America." />
+              <meta property="og:description" content="JConf Central America 2020, the biggest JVM Event in Central America." />
             </#if>
     </#if>
 

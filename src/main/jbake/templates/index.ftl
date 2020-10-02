@@ -52,7 +52,7 @@
             <div class="col-md-6 col-sm-6 col-xs-12 wow fadeInLeft animated" data-wow-delay="0.2s" style="visibility: visible;-webkit-animation-delay: 0.2s; -moz-animation-delay: 0.2s; animation-delay: 0.2s;">
             <div class="text">
             <h2>JConf Centro America <br>2020</h2>
-            <h4>Online <br> november 7, 2020 </h4>
+            <h4>Online <br> december 5, 2020 </h4>
             </div>
             </div>
             <div class="col-md-6 col-sm-6 col-xs-12 wow fadeInRight animated" data-wow-delay="0.2s" style="visibility: visible;-webkit-animation-delay: 0.2s; -moz-animation-delay: 0.2s; animation-delay: 0.2s;">
@@ -85,7 +85,7 @@
         </div>
         <div class="desc">
         <h4>When</h4>
-        <p>nov 7 - 8:00 am</p>
+        <p>dec 5 - 9:00 am</p>
         </div>
         </div>
         </div>
@@ -122,7 +122,7 @@
     </section>
 
     <!-- Sponsors Section Start -->
-  <section id="sponsors" class="section">
+  <!--section id="sponsors" class="section">
     <div class="container">
       <div class="row">
         <div class="col-md-12">
@@ -139,7 +139,34 @@
         </div>
       </div>
     </div>
+  </section-->
+<section id="sponsors" class="section">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12">
+          <h2 class="section-title wow fadeInUp" data-wow-delay="0s">Partners</h2>
+          <p class="section-subcontent wow fadeInUp" data-wow-delay="0.2s">We say thanks to our community partners</p>
+        </div>
+      </div>
+      <div class="row">
+        <h3 class="section-title wow fadeInUp" data-wow-delay="0s">Java User Groups</h3>
+        <div class="col-md-4 col-sm-4 col-xs-12">
+          <div class="spnsors-logo wow fadeInUp" data-wow-delay="0.1s">
+            <a href="https://www.guate-jug.net/" target="_blank"><img class="img-responsive center-block" src="<#if (content.rootpath)??>${content.rootpath}<#else></#if>img/partners/guatejug.png" alt=""></a>
+          </div>
+        </div>
+        <div class="col-md-4 col-sm-4 col-xs-12">
+          <div class="spnsors-logo wow fadeInUp" data-wow-delay="0.1s">
+            <a href="https://www.javanicaragua.org/" target="_blank"><img class="img-responsive center-block" src="<#if (content.rootpath)??>${content.rootpath}<#else></#if>img/partners/nicaraguajug.png" alt=""></a>
+          </div>
+        </div>
+        <div class="col-md-4 col-sm-4 col-xs-12">
+          <div class="spnsors-logo wow fadeInUp" data-wow-delay="0.1s">
+            <a href="https://www.facebook.com/ESAJUG/" target="_blank"><img class="img-responsive center-block" src="<#if (content.rootpath)??>${content.rootpath}<#else></#if>img/partners/esajug.jpg" alt=""></a>
+          </div>
+        </div>
+      </div>
+    </div>
   </section>
-
 
 <#include "footer.ftl">
