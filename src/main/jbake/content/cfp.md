@@ -10,7 +10,7 @@ Call for Papers JConf Central America 2020
 
 **JConf Central America is the biggest Java conference in the region**, since 2011 we've constructed an exchange hub for software developers, architects, and enthusiasts around Java technologies.
 
-JConf will be hosted on-line on **november 7**, being a conference by and for the developer community.
+JConf will be hosted on-line on **december 5**, being a conference by and for the developer community.
 
 Speak at JConf 2020!
 ====================
