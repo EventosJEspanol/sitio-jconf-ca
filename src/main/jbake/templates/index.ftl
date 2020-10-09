@@ -149,22 +149,29 @@
         </div>
       </div>
       <div class="row">
+
         <h3 class="section-title wow fadeInUp" data-wow-delay="0s">Java User Groups</h3>
-        <div class="col-md-4 col-sm-4 col-xs-12">
+        <div class="col-md-3 col-sm-3 col-xs-12">
           <div class="spnsors-logo wow fadeInUp" data-wow-delay="0.1s">
-            <a href="https://www.guate-jug.net/" target="_blank"><img class="img-responsive center-block" src="<#if (content.rootpath)??>${content.rootpath}<#else></#if>img/partners/guatejug.png" alt=""></a>
+            <a href="https://www.guate-jug.net/" target="_blank"><img class="img-responsive center-block" src="<#if (content.rootpath)??>${content.rootpath}<#else></#if>img/partners/guatejug.png" alt="Logo Guatemala"></a>
           </div>
         </div>
-        <div class="col-md-4 col-sm-4 col-xs-12">
+        <div class="col-md-3 col-sm-3 col-xs-12">
           <div class="spnsors-logo wow fadeInUp" data-wow-delay="0.1s">
-            <a href="https://www.javanicaragua.org/" target="_blank"><img class="img-responsive center-block" src="<#if (content.rootpath)??>${content.rootpath}<#else></#if>img/partners/nicaraguajug.png" alt=""></a>
+            <a href="https://www.javanicaragua.org/" target="_blank"><img class="img-responsive center-block" src="<#if (content.rootpath)??>${content.rootpath}<#else></#if>img/partners/nicaraguajug.png" alt="Logo JUG Nicaragua"></a>
           </div>
         </div>
-        <div class="col-md-4 col-sm-4 col-xs-12">
+        <div class="col-md-3 col-sm-3 col-xs-12">
           <div class="spnsors-logo wow fadeInUp" data-wow-delay="0.1s">
             <a href="https://www.facebook.com/ESAJUG/" target="_blank"><img class="img-responsive center-block" src="<#if (content.rootpath)??>${content.rootpath}<#else></#if>img/partners/esajug.jpg" alt=""></a>
           </div>
         </div>
+        <div class="col-md-3 col-sm-3 col-xs-12">
+          <div class="spnsors-logo wow fadeInUp" data-wow-delay="0.1s">
+              <a href="https://www.facebook.com/" target="_blank"><img class="img-responsive center-block" src="<#if (content.rootpath)??>${content.rootpath}<#else></#if>img/partners/panamajug.jpg" alt="Logo Panamá JUG"></a>
+          </div>
+        </div>
+
       </div>
     </div>
   </section>
