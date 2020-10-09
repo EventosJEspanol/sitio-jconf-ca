@@ -168,7 +168,7 @@
         </div>
         <div class="col-md-3 col-sm-3 col-xs-12">
           <div class="spnsors-logo wow fadeInUp" data-wow-delay="0.1s">
-              <a href="https://www.facebook.com/" target="_blank"><img class="img-responsive center-block" src="<#if (content.rootpath)??>${content.rootpath}<#else></#if>img/partners/panamajug.jpg" alt="Logo Panamá JUG"></a>
+              <a href="https://twitter.com/JugPanama" target="_blank"><img class="img-responsive center-block" src="<#if (content.rootpath)??>${content.rootpath}<#else></#if>img/partners/panamajug.jpg" alt="Logo Panamá JUG"></a>
           </div>
         </div>
 
