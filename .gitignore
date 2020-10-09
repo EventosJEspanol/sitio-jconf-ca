@@ -1,2 +1,5 @@
 target
 src/main/jbake/output
+/.idea/
+/.settings/
+/.vscode/
