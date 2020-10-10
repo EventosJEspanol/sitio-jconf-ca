@@ -12,6 +12,8 @@ Call for Papers JConf Central America 2020
 
 JConf will be hosted on-line on **december 5**, being a conference by and for the developer community.
 
+Proposals and talks in english and spanish are welcome.
+
 Speak at JConf 2020!
 ====================
 Java User Groups from Central America are pleased to invite all the people interested in sharing knowledge with **talks and workshops for beginners and senior developers**.
