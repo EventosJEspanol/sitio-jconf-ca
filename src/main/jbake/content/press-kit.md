@@ -68,7 +68,7 @@ Los tópicos de la conferencia son:
     * Tools, architecture and strategies
     * Startups with Java
 
-* Compartiendo el evento con tus comunidades utilizando los elementos disponibles en nuestro (press-kit)[https://jconf.org/press-kit.hml]
+* Compartiendo el evento con tus comunidades utilizando los elementos disponibles en nuestro [press-kit](https://jconf.org/press-kit.html)
 
 ### Fechas importantes:
 
@@ -94,7 +94,7 @@ You can support JConf in two ways:
 
 * Participating as a speaker and registering your presentation proposal (conference, Q&A and workshop) through our platform.
 
-[https://jconf.org/cfp.html-lex.europa.eu(https://jconf.org/cfp.html)
+[https://jconf.org/cfp.html](https://jconf.org/cfp.html)
 
 The topics of the conference are:
 
@@ -107,7 +107,7 @@ The topics of the conference are:
     * Tools, architecture and strategies
     * Startups with Java
 
-* Sharing the event with your communities using the elements available in our (press-kit) [https://jconf.org/press-kit.hml]
+* Sharing the event with your communities using the elements available in our [press-kit](https://jconf.org/press-kit.html)
 
 ### Important dates:
 

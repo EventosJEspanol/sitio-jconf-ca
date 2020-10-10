@@ -12,8 +12,11 @@
               <a rel="nofollow" href="http://graygrids.com">
                 GrayGrids
               </a>
-              | Chef <a rel="nofollow" href="http://twitter.com/tuxtor">
+              | Chefs <a rel="nofollow" href="http://twitter.com/tuxtor">
                 @tuxtor
+              </a>
+              <a rel="nofollow" href="https://twitter.com/berroteranlkf">
+              @berroteranlkf
               </a>
               | Baked with <a rel="nofollow" href="http://jbake.org">
                 JBake
