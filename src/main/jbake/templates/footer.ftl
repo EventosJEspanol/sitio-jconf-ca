@@ -18,6 +18,9 @@
               | Baked with <a rel="nofollow" href="http://jbake.org">
                 JBake
               </a>
+              | <a rel="nofollow" href="https://jconf.org/press-kit.html">
+                Press kit 
+              </a>
             </p>
           </div>
         </div>
