@@ -3,7 +3,7 @@
     <!-- Main contetn End -->
 
     <!-- Copytight Start -->
-    <section id="copyright">
+    <section id="copyright" style="position:fixed;bottom:0px;width:100%;left:0;">
       <div class="container">
         <div class="row">
           <div class="col-md-12">
