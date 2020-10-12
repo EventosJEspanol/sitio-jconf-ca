@@ -8,6 +8,7 @@
 
         <!-- Wrapper for slides -->
         <div class="carousel-inner" role="listbox">
+            <!-- img 01 -->
           <div class="item active">
             <img src="<#if (content.rootpath)??>${content.rootpath}<#else></#if>img/slider/bg-1.jpg" alt="">
             <div class="carousel-caption">
@@ -20,6 +21,8 @@
               </a>
             </div>
           </div>
+
+            <!-- img 02 -->
           <div class="item">
             <img src="<#if (content.rootpath)??>${content.rootpath}<#else></#if>img/slider/bg-2.jpg" alt="">
             <div class="carousel-caption">
@@ -34,6 +37,55 @@
               </a>
             </div>
           </div>
+
+            <!-- img 03 Nicaragua -->
+            <div class="item">
+                <img src="<#if (content.rootpath)??>${content.rootpath}<#else></#if>img/slider/bg-6.jpg" alt="">
+                <div class="carousel-caption">
+                    <h2 class="wow fadeInUp" data-wow-delay="300ms">Schedule will be available soon</h2>
+                    <div class="buttons">
+                        <div class="buttons wow fadeInDown" data-wow-delay="0.2s"><a class="btn btn-lg btn-border" href="http://www.guate-jug.net/jconf2019/archive.html">See last year speakers</a></div>
+                    </div>
+                    <a data-scroll href="#featured">
+                        <div class="rev-scroll-btn wow fadeInUp" data-wow-delay="600ms">
+                            <span></span>
+                        </div>
+                    </a>
+                </div>
+            </div>
+
+            <!-- img 04 Nicaragua -->
+            <div class="item">
+                <img src="<#if (content.rootpath)??>${content.rootpath}<#else></#if>img/slider/bg-7.jpg" alt="">
+                <div class="carousel-caption">
+                    <h2 class="wow fadeInUp" data-wow-delay="300ms">Schedule will be available soon</h2>
+                    <div class="buttons">
+                        <div class="buttons wow fadeInDown" data-wow-delay="0.2s"><a class="btn btn-lg btn-border" href="http://www.guate-jug.net/jconf2019/archive.html">See last year speakers</a></div>
+                    </div>
+                    <a data-scroll href="#featured">
+                        <div class="rev-scroll-btn wow fadeInUp" data-wow-delay="600ms">
+                            <span></span>
+                        </div>
+                    </a>
+                </div>
+            </div>
+
+            <!-- img 05 Nicaragua -->
+            <div class="item">
+                <img src="<#if (content.rootpath)??>${content.rootpath}<#else></#if>img/slider/bg-8.jpg" alt="">
+                <div class="carousel-caption">
+                    <h2 class="wow fadeInUp" data-wow-delay="300ms">Schedule will be available soon</h2>
+                    <div class="buttons">
+                        <div class="buttons wow fadeInDown" data-wow-delay="0.2s"><a class="btn btn-lg btn-border" href="http://www.guate-jug.net/jconf2019/archive.html">See last year speakers</a></div>
+                    </div>
+                    <a data-scroll href="#featured">
+                        <div class="rev-scroll-btn wow fadeInUp" data-wow-delay="600ms">
+                            <span></span>
+                        </div>
+                    </a>
+                </div>
+            </div>
+
         </div>
 
         <!-- Controls -->
