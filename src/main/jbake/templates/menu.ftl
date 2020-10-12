@@ -42,6 +42,8 @@
                 <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>cfp.html">CFP</a></li>
                 <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>archive.html">Schedule</a></li>
                 <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>venue.html">Venue</a></li>
+                <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>guatemala.html">Central America</a></li>
+
                 <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>about.html">About</a></li>
                 <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>coc.html">Code of Conduct</a></li>
               </ul>
@@ -55,6 +57,7 @@
             <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>cfp.html">CFP</a></li>
             <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>archive.html">Schedule</a></li>
             <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>venue.html">Venue</a></li>
+            <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>venue.html">Central America</a></li>
             <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>about.html">About</a></li>
             <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>coc.html">Code of Conduct</a></li>
            </ul>

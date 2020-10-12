@@ -4,6 +4,9 @@
 
 
 <section id="Main Schedule" class="section">
-To be defined
+
+    <h3>To be defined</h3>
+
 </section>
+
 <#include "footer.ftl">
