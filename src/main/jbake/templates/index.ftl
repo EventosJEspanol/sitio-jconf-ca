@@ -42,7 +42,7 @@
             <div class="item">
                 <img src="<#if (content.rootpath)??>${content.rootpath}<#else></#if>img/slider/bg-6.jpg" alt="">
                 <div class="carousel-caption">
-                    <h2 class="wow fadeInUp" data-wow-delay="300ms">Agenda estará disponible muy pronto.</h2>
+                    <h2 class="wow fadeInUp" data-wow-delay="300ms">El CFP estará abierto hata el 05 de Noviembre.</h2>
                     <div class="buttons">
                         <div class="buttons wow fadeInDown" data-wow-delay="0.2s"><a class="btn btn-lg btn-border" href="http://www.guate-jug.net/jconf2019/archive.html">See last year speakers</a></div>
                     </div>
@@ -58,7 +58,7 @@
             <div class="item">
                 <img src="<#if (content.rootpath)??>${content.rootpath}<#else></#if>img/slider/bg-7.jpg" alt="">
                 <div class="carousel-caption">
-                    <h2 class="wow fadeInUp" data-wow-delay="300ms">Schedule will be available soon</h2>
+                    <h2 class="wow fadeInUp" data-wow-delay="300ms">Evento en Linea</h2>
                     <div class="buttons">
                         <div class="buttons wow fadeInDown" data-wow-delay="0.2s"><a class="btn btn-lg btn-border" href="http://www.guate-jug.net/jconf2019/archive.html">See last year speakers</a></div>
                     </div>
@@ -74,7 +74,7 @@
             <div class="item">
                 <img src="<#if (content.rootpath)??>${content.rootpath}<#else></#if>img/slider/bg-8.jpg" alt="">
                 <div class="carousel-caption">
-                    <h2 class="wow fadeInUp" data-wow-delay="300ms">Schedule will be available soon</h2>
+                    <h2 class="wow fadeInUp" data-wow-delay="300ms">El registro se habilitará pronto.</h2>
                     <div class="buttons">
                         <div class="buttons wow fadeInDown" data-wow-delay="0.2s"><a class="btn btn-lg btn-border" href="http://www.guate-jug.net/jconf2019/archive.html">See last year speakers</a></div>
                     </div>
