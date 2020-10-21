@@ -19,9 +19,11 @@
 	<!--<ul>-->
 
 	<section id="Listado charlas" class="section">
+
 		<div class="container">
 	<div class="row">
 		<#list tag_posts as post>
+
 
 	<#if (last_tag)??>
 		<#if post.tags?join(", ") != last_tag>
@@ -33,6 +35,7 @@
 		<h4>${post.tags?join(", ")}</h4>
 		<ul>
 	</#if>
+
 
 		<li><a href="${content.rootpath}${post.uri}"><#escape x as x?xml>${post.title}</#escape></a></li>
 		<#assign last_tag = post.tags?join(", ")>

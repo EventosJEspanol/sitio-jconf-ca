@@ -4,6 +4,6 @@ type=page
 status=published
 ~~~~~~
 
-Due COVID-19 emergency we believe that is for common interest of our community and social distance to avoid any physical event.
+Debido a la emergencia de COVID-19, creemos que es del común interés de nuestra comunidad y el distanciamiento social, evitar cualquier evento físico.
 
-Hence this year event will be held online and everywhere, streaming everywhere :).
+Debido a esto, este año el evento se llevará a cabo en linea y en todos lados, transmitiendo a todo el mundo :).

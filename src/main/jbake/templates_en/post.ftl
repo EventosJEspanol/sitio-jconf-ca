@@ -3,13 +3,15 @@
 <#include "menu.ftl">
 
 <style type="text/css">
-	#share-buttons img {
-		width: 35px;
-		padding: 5px;
-		border: 0;
-		box-shadow: 0;
-		display: inline;
-	}
+
+#share-buttons img {
+width: 35px;
+padding: 5px;
+border: 0;
+box-shadow: 0;
+display: inline;
+}
+
 </style>
 
 <!-- Page Header Start -->
@@ -18,7 +20,7 @@
 		<div class="page-header-inner">
 			<ol class="breadcrumb wow fadeInDown" data-wow-delay="300ms">
 				<li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>index.html">Principal</a></li>
-				<li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>archive.html">Presentaciones</a></li>
+				<li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>archive.html">Presentations</a></li>
 				<li class="page">${content.title}</li>
 			</ol>
 			<div class="row">
@@ -64,6 +66,7 @@
 	<!-- I got these buttons from simplesharebuttons.com -->
 	<div id="share-buttons">
 
+
 	    <!-- Email -->
 	    <a href="mailto:?Subject=Come to JConf 2020 ${content.uri}">
 	        <img src="https://simplesharebuttons.com/images/somacro/email.png" alt="Email" />
@@ -95,6 +98,7 @@
 	        <img src="https://simplesharebuttons.com/images/somacro/twitter.png" alt="Twitter" />
 	    </a>
 
+
 	</div>
 </div>
 
@@ -102,7 +106,13 @@
 	</div>
 
 
+
+
+
+
 </section>
+
+
 
 
 <#include "footer.ftl">

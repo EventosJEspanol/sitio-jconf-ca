@@ -3,25 +3,25 @@ date=2020-02-04
 type=page
 status=published
 ~~~~~~
+Adaptaddo del DevNexus Code Of Conduct (https://devnexus.com/code-of-conduct.html)
 
-Adapted from the DevNexus Code Of Conduct (https://devnexus.com/code-of-conduct.html)
+Todos los delegados, expositores, patrocinadores y voluntarios de cualquier evento JConf Centroamérica se deben adherir al siguiente código de conducta. Los organizadores deben reforzar este código a lo largo del evento.
 
-All delegates, speakers, sponsors and volunteers at any JConf Centroamérica event are required to agree with the following code of conduct. Organizers will enforce this code throughout the event.
+## Versión corta
 
-## The Quick Version
+JConf Centroamérica está dedicado a proveer una experiencia de conferencia libre de acoso para todos, sin importar el género, identidad y expresión de género, edad, orientación sexual, discapacidad, apariencia física, tamaño de cuerpo, etnicidad, religión (o falta de alguna), o selección tecnológica. No toleramos el acoso de los participantes en ninguna forma. Lenguaje sexual no es apropiado en ninguna parte del lugar del evento, incluyendo charlas, talleres, fiestas, Twitter y otros medios en línea. Los participantes que violen estas reglas pueden ser sancionados o expulsados de la conferencia sin reembolso a discreción de los organizadores del evento.
 
-JConf Centroamérica is dedicated to providing a harassment-free conference experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion (or lack thereof), or technology choices. We do not tolerate harassment of conference participants in any form. Sexual language and imagery is not appropriate for any conference venue, including talks, workshops, parties, Twitter and other online media. Conference participants violating these rules may be sanctioned or expelled from the conference without a refund at the discretion of the conference organizers.
+## Versión menos corta
 
-## The Less Quick Version
+Acoso incluye comentarios vervales ofensivos relacionados al género, identidad y expresión de género, edad, orientación sexual, discapacidad, apariencia física, tamaño de cuerpo, raza, etnicidad, religión, o selección tecnológica, imágenes sexuales en espacios públicos, intimidación deliberada, acecho, perseguimiento, acoso de fotografía o grabación, trastornos sostenidos de las charlas u otros eventos, contacto físico inapropiado y atención sexual no bien recibida.
 
-Harassment includes offensive verbal comments related to gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion, technology choices, sexual images in public spaces, deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention.
+Se espera que los participantes solicitados de detener cualquier comportamiento de acoso
+cumplan de inmediato.
 
-Participants asked to stop any harassing behavior are expected to comply immediately.
+Los patrocinadores son también sujetos de la política anti-acoso. En particular, los patrocinadores no deben usar imágenes, materiales o actividades sexualizadas. El personal del stand (incluyendo voluntarios) no deben usar ropa/uniformes/disfraces sexualizados o crear un ambiente sexualizado. 
 
-Sponsors are also subject to the anti-harassment policy. In particular, sponsors should not use sexualized images, activities, or other material. Booth staff (including volunteers) should not use sexualized clothing/uniforms/costumes, or otherwise create a sexualized environment.
+Si un participante muestra un comportamiento de acoso, los organizadores de la conferencia pueden tomar cualquier acción que estimen apropiada, incluyendo advertencias o la expulasion de la conferencia sin reembolso. 
 
-If a participant engages in harassing behavior, the conference organizers may take any action they deem appropriate, including warning the offender or expulsion from the conference with no refund.
+Si eres acosado, ntas que alguien es acosado o tienes algúna preocuplacion, por favor contacta a un miembro del staff de la conferencia de inmediato.
 
-If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of conference staff immediately. 
-
-We expect participants to follow these rules at all conference venues and conference-related social events.
+Esperamos que los participantes cumplan estas reglas en todos los aspectos y lugares de la conferencia.
