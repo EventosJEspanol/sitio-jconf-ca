@@ -20,7 +20,7 @@
             <div class="col-md-3 col-sm-3">
               <!-- languaje -->
               <div class="quick-contacts">
-                <a href="/english.html"  >
+                <a href="/en/index.html"  >
                   <i class="fa fa-globe"></i>
                   <span> English</span>
                 </a>
@@ -69,7 +69,7 @@
             <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>cfp.html">CFP</a></li>
             <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>archive.html">Agenda</a></li>
             <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>venue.html">Lugar</a></li>
-            <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>guatemala.html">Americacentral</a></li>
+            <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>guatemala.html">America central</a></li>
             <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>about.html">Acerca de</a></li>
             <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>coc.html">Código de Conducta</a></li>
            </ul>

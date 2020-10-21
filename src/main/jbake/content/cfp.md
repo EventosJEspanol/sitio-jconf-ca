@@ -3,87 +3,85 @@ date=2020-02-04
 type=page
 status=published
 ~~~~~~
-Call for Papers JConf Central America 2020
+Llamado para expositores(CFP)
 ====================================
 
-**We are looking for you as speaker in 2020!**. Speak with us to celebrate 10 years of GuateJUG and 25 years of Java.
+**¡Te queremos como expositor en este 2020!**. Expone con nosotros para celebrar 10 años de GuateJUG y 25 años de Java.
 
-**JConf Central America is the biggest Java conference in the region**, since 2011 we've constructed an exchange hub for software developers, architects, and enthusiasts around Java technologies.
+**JConf Centroamérica es la conferencia de Java más grande de la región**. Desde el año 2011 hemos construido un espacio de intercambio para desarrolladores de software, arquitectos y entusiastas de las tecnologías Java.
 
-JConf will be hosted on-line on **december 5**, being a conference by and for the developer community.
+JConf será transmitida en línea el **5 de diciembre**, siendo una conferencia dada por y para la comunidad de desarrolladores.
 
-Proposals and talks in english and spanish are welcome.
+Propuestas y charlas en inglés y español son bienvenidas.
 
-Speak at JConf 2020!
+
+
+Participa en JConf 2020!
 ====================
-Java User Groups from Central America are pleased to invite all the people interested in sharing knowledge with **talks and workshops for beginners and senior developers**.
+Java User Groups de Centroamérica se complacen en invitar a todos los interesados en compartir conocimiento con **charlas y talleres para principiantes y desarolladores senior**.
 
-Do you have something interesting to share with the community? Innovations made with Java?, Java success stories?. **We and the JConf Attendees wanna know about you**.  
+¿Tienes algo interesante que compartir con la comunidad?, ¿innovaciones hechas con Java?, ¿casos de éxito con Java?. **Nosotros y los participantes en JConf queremos saber acerca de ti**.  
 
-We've divided the conference in different tracks, being:  
+Hemos dividido las conferencias en diversos tracks, como son:  
 
-Java Platform
+Plataforma Java
 -------------
 
-Any topic related with the JVM as development platform including, Java Core, certifications, JVM internals, Java language, OpenJDK.
+Cualquier tema relacionado con la JVM como plataforma de desarrollo incluyendo Java Core, certificaciones, JVM internals, el lenguaje Java, OpenJDK.
 
-Alternative languages
+
+Lenguajes Alternativos
 ---------------------
 
-Considering the Java Virtual Machine as a polyglot execution environment, this space is specially designed for presentations related with GraalVM, Scala, Kotlin, Groovy, JavaScript and beyond.
+Considerando a la Máquina Virtual de Java como un ambiente de ejecución políglota, este espacio está especialmente diseñado para las presentaciones relacionadas con GraalVM, Scala, Kotlin, Groovy, JavaScript y demás.
 
-Server side development
+
+Desarrollo del lado del servidor
 -----------------------
 
-Our most popular track. Main track focus is presentations about Java as enterprise development platform. Java EE, Spring, Akka, Spark, Kafka, MicroProfile, RxJava, etc. Every Java framework, library and standard is welcome.
+Nuestro track más popular. El principal enfoque son las presentaciones acerca de Java como plataforma de desarrollo empresarial. Java EE, Spring, Akka, Spark, Kafka, MicroProfile, RxJava, etc. Todo framework de Java, libreria y estándar es bienvenido. 
 
-Client side development
+Desarrollo del lado del cliente
 -----------------------
+¿Interesado en el desarrollo del lado del cliente? Todas las presentaciones relacionadas con JavaFX, HTMLS5+CSS+JS, Krazo, Vaadin, JSF, UI/UX, vienen aquí.
 
-Interested in client side development?, all presentations related with JavaFX, HTML5+CSS+JS, Krazo, Vaadin, JSF, UI/UX, go here.
-
-Small and not so small Java
+Java pequeño y no tan pequeño
 ---------------------------
 
-SmartCards, Java Embedded, iOT, Java Me, Java TV, Android, Arduino, Rasberry Pi and related activities. Java was born here.
+SmartCards, Java Embedded, iOT, Java Me, Java TV, Android, Arduino, Rasberry Pi y activides relacionadas. Java nació aquí.
 
-Big (Data with) Java
+Big Data con Java
 ----------------------------------
+Un nuevo track este año. Reconocemos la importancia de la JVM en la Ingeniería de Datos, por lo que este año recibiremos propuestas para tópicos como Kafka, Hadoop, Spark, Beam, Storm. No importa si ejecutas tus consultas con Scala, Java, Pig, Python, R. Al final, todos los caminos convergen en la JVM. 
 
-A new track for this year. We recognize the importance of the JVM in the Data Engineering space, hence this year we will be receiving proposals for topics like Kafka, Hadoop, Spark, Beam, Storm. It doesn't matter if you execute your queries with Scala, Java, Pig, Python, R, in the end all roads converge to the JVM.
-
-Tools, architecture and strategies
+Herramientas, arquitectura y estrategias
 ----------------------------------
+No hay hechizero sin varita mágica. Esta sección incluye todas las tecnologías y estrategias para mejorar la calidad del código Java. IDEs, CI/CD, DevOps, Docker, Kubernets, Blockchain, Hyperledger y cualquier otra palabra de moda.
 
-There is no wizard without a magic wand. This section includes all technologies and strategies to improve Java code quality. IDEs, CI/CD, DevOps, Docker, Kubernets, Blockchain, Hyperledger, and any other buzzword.
 
-Startups with Java
+Startups con Java
 ------------------
+En este espacio se presentan historias de éxito, documentos académicos, tendencias de mercado y startups que implementen Java como su plataforma principal. 
 
-This space will present success stories, academic papers, market tendencies and startups implementing Java as its main platform.
-
-Proposals reception
+Recepcion de propuestas
 ===================
 
-Proposals will be received through papercall.io:
+Las propuestas se recibirán a través de papercall.io:
 
 [https://www.papercall.io/jconf-guatemala-2020](https://www.papercall.io/jconf-guatemala-2020)
 
-It is important to consider:
+Es importante considerar que:
+*Por razones históricas, JConf es un evento libre para todos y 110% de la comunidad. Por tanto, nos reservamos el derecho de aceptar presentaciones con el solo obetivo de promover un producto comercial. Tambien tenemos oportunidades de patrocinio que pueden ajustarse mejor a este propósito.
+*El ponente declara que la presentación sera creada en un formato "compartible" con una licencia apropiada (sugerimos [CC-BY-SA 3.0 GT](http://creativecommons.org/licenses/by-sa/3.0/gt/)).
+*No hay limites para el número de propuestas por expositor.
 
-* By historical reasons, JConf is a free for all, 110% community event. Hence we reserve the right to accept presentation with the only objective to promote a commercial product. We also have sponsorship opportunities that could fit better for this.
-
-* The speaker declares that presentation will be created in a "shareable" format with a proper license (we suggest [CC-BY-SA 3.0 GT](http://creativecommons.org/licenses/by-sa/3.0/gt/)).
-
-* There is no limit for proposals per speaker.
-
-Important dates
+Fechas importantes:
 ===============
 
-CFP opens: **2020/10/05**
+CFP abre: **2020/10/05**
 
-CFP ends: **2020/11/06**
+CFP cierra: **2020/11/06**
 
-Proposals approval announcement and final schedule: **2020/11/09**
+Anuncio de aprobado de propuestas y horario final: **2020/11/09**
 
-Thank you again for contributing with the Java World!
+!Gracias de nuevo por contribuir con el Mundo de Java!

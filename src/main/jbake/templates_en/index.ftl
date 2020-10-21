@@ -12,8 +12,8 @@
           <div class="item active">
             <img src="<#if (content.rootpath)??>${content.rootpath}<#else></#if>img/slider/bg-1.jpg" alt="">
             <div class="carousel-caption">
-              <h2 class="wow fadeInRight" data-wow-delay="300ms">JConf Centroamérica 2020<br> por primera vez uniendo toda la region</h2>
-              <div class="buttons wow fadeInDown" data-wow-delay="0.2s"><a class="btn btn-lg btn-border" href="about.html">Acerca de</a></div>
+              <h2 class="wow fadeInRight" data-wow-delay="300ms">JConf Central America 2020<br>10 years being the biggest Java Conference in the region</h2>
+              <div class="buttons wow fadeInDown" data-wow-delay="0.2s"><a class="btn btn-lg btn-border" href="/en/about.html">About</a></div>
               <a data-scroll href="#featured">
               <div class="rev-scroll-btn wow fadeInUp" data-wow-delay="600ms">
                 <span></span>
@@ -26,7 +26,7 @@
           <div class="item">
             <img src="<#if (content.rootpath)??>${content.rootpath}<#else></#if>img/slider/bg-2.jpg" alt="">
             <div class="carousel-caption">
-              <h2 class="wow fadeInUp" data-wow-delay="300ms">La agenda estará disponible pronto</h2>
+              <h2 class="wow fadeInUp" data-wow-delay="300ms">Schedule will be available soon</h2>
               <div class="buttons">
               <div class="buttons wow fadeInDown" data-wow-delay="0.2s"><a class="btn btn-lg btn-border" href="http://www.guate-jug.net/jconf2019/archive.html">See last year speakers</a></div>
               </div>
@@ -42,7 +42,7 @@
             <div class="item">
                 <img src="<#if (content.rootpath)??>${content.rootpath}<#else></#if>img/slider/bg-6.jpg" alt="">
                 <div class="carousel-caption">
-                    <h2 class="wow fadeInUp" data-wow-delay="300ms">El CFP estará abierto hata el 05 de Noviembre.</h2>
+                    <h2 class="wow fadeInUp" data-wow-delay="300ms">Schedule will be available soon</h2>
                     <div class="buttons">
                         <div class="buttons wow fadeInDown" data-wow-delay="0.2s"><a class="btn btn-lg btn-border" href="http://www.guate-jug.net/jconf2019/archive.html">See last year speakers</a></div>
                     </div>
@@ -58,7 +58,7 @@
             <div class="item">
                 <img src="<#if (content.rootpath)??>${content.rootpath}<#else></#if>img/slider/bg-7.jpg" alt="">
                 <div class="carousel-caption">
-                    <h2 class="wow fadeInUp" data-wow-delay="300ms">Evento en Linea</h2>
+                    <h2 class="wow fadeInUp" data-wow-delay="300ms">Schedule will be available soon</h2>
                     <div class="buttons">
                         <div class="buttons wow fadeInDown" data-wow-delay="0.2s"><a class="btn btn-lg btn-border" href="http://www.guate-jug.net/jconf2019/archive.html">See last year speakers</a></div>
                     </div>
@@ -74,7 +74,7 @@
             <div class="item">
                 <img src="<#if (content.rootpath)??>${content.rootpath}<#else></#if>img/slider/bg-8.jpg" alt="">
                 <div class="carousel-caption">
-                    <h2 class="wow fadeInUp" data-wow-delay="300ms">El registro se habilitará pronto.</h2>
+                    <h2 class="wow fadeInUp" data-wow-delay="300ms">Schedule will be available soon</h2>
                     <div class="buttons">
                         <div class="buttons wow fadeInDown" data-wow-delay="0.2s"><a class="btn btn-lg btn-border" href="http://www.guate-jug.net/jconf2019/archive.html">See last year speakers</a></div>
                     </div>
@@ -103,8 +103,8 @@
           <div class="row">
             <div class="col-md-6 col-sm-6 col-xs-12 wow fadeInLeft animated" data-wow-delay="0.2s" style="visibility: visible;-webkit-animation-delay: 0.2s; -moz-animation-delay: 0.2s; animation-delay: 0.2s;">
             <div class="text">
-            <h2>JConf CentroAmérica <br>2020</h2>
-            <h4>En línea <br> 05 de Diciembre, 2020 </h4>
+            <h2>JConf Centro America <br>2020</h2>
+            <h4>Online <br> december 5, 2020 </h4>
             </div>
             </div>
             <div class="col-md-6 col-sm-6 col-xs-12 wow fadeInRight animated" data-wow-delay="0.2s" style="visibility: visible;-webkit-animation-delay: 0.2s; -moz-animation-delay: 0.2s; animation-delay: 0.2s;">
@@ -116,7 +116,6 @@
           </div>
         </div>
     </section>
-
     <section id="event" class="section">
         <div class="container">
         <div class="row">
@@ -126,7 +125,7 @@
         <i class="icon-location-pin"></i>
         </div>
         <div class="desc">
-        <h4><a href="http://www.guate-jug.net/jconf2020/venue.html">Dónde</a></h4>
+        <h4><a href="http://www.guate-jug.net/jconf2020/venue.html">Where</a></h4>
         <p>Online</p>
         </div>
         </div>
@@ -137,8 +136,8 @@
         <i class="icon-calendar"></i>
         </div>
         <div class="desc">
-        <h4>Cuando</h4>
-        <p>Dic 5 - 9:00 am</p>
+        <h4>When</h4>
+        <p>dec 5 - 9:00 am</p>
         </div>
         </div>
         </div>
@@ -149,7 +148,7 @@
         </div>
         <div class="desc">
         <h4>Speakers</h4>
-        <p>Mas de 20 conferencistas el desarrollo de aplicaciones web, desktop and mobile.</p>
+        <p>More than 30 speakers in web, desktop and mobile development.</p>
         </div>
         </div>
         </div>
@@ -166,10 +165,8 @@
         </div>
         <div class="col-md-12">
         <div class="content-text">
-        <h3 class="wow fadeInUp animated" data-wow-delay="0.8s" style="visibility: visible;-webkit-animation-delay: 0.8s; -moz-animation-delay: 0.8s; animation-delay: 0.8s;">Java es hipster otra vez</h3>
-        <p class="wow fadeInUp animated" data-wow-delay="1s" style="visibility: visible;-webkit-animation-delay: 1s; -moz-animation-delay: 1s; animation-delay: 1s;">
-            Soportando mas de 100 lenguajes incluyendo Java, Kotlin, TypeScript, Scala, JavaScript, Clojure, etc, es
-            un gran momento para ser Desarrollador Java.</p>
+        <h3 class="wow fadeInUp animated" data-wow-delay="0.8s" style="visibility: visible;-webkit-animation-delay: 0.8s; -moz-animation-delay: 0.8s; animation-delay: 0.8s;">Java is hipster again</h3>
+        <p class="wow fadeInUp animated" data-wow-delay="1s" style="visibility: visible;-webkit-animation-delay: 1s; -moz-animation-delay: 1s; animation-delay: 1s;">With support for more than 100 languages, including Java, Kotlin, TypeScript, Scala, JavaScript, Clojure, etc. it's a great time to be a Java developer.</p>
         </div>
         </div>
         </div>
@@ -200,12 +197,12 @@
       <div class="row">
         <div class="col-md-12">
           <h2 class="section-title wow fadeInUp" data-wow-delay="0s">Partners</h2>
-          <p class="section-subcontent wow fadeInUp" data-wow-delay="0.2s">Damos las gracias a quienes apoyan nuestras comunidades.</p>
+          <p class="section-subcontent wow fadeInUp" data-wow-delay="0.2s">We say thanks to our community partners</p>
         </div>
       </div>
       <div class="row">
 
-        <h3 class="section-title wow fadeInUp" data-wow-delay="0s">Java User Groups en Centro America</h3>
+        <h3 class="section-title wow fadeInUp" data-wow-delay="0s">Java User Groups</h3>
         <div class="col-md-3 col-sm-3 col-xs-12">
           <div class="spnsors-logo wow fadeInUp" data-wow-delay="0.1s">
             <a href="https://www.guate-jug.net/" target="_blank"><img class="img-responsive center-block" src="<#if (content.rootpath)??>${content.rootpath}<#else></#if>img/partners/guatejug.png" alt="Logo Guatemala"></a>

@@ -5,14 +5,14 @@
           <div class="container">
             <div class="col-md-6 col-sm-6">
               <div class="info-bar-address">
-                 <i class="icon-location-pin"></i> En línea, diciembre 5, 2020
+                 <i class="icon-location-pin"></i> Online, december 5, 2020
               </div>
             </div>
 
             <div class="col-md-3 col-sm-3">
               <!-- Quick Contacts Starts -->
               <div class="quick-contacts">
-                <span><i class="icon-envelope"></i><a href="#">info@guate-jug.net</a></span>
+                  <span><i class="icon-envelope"></i><a href="#">info@guate-jug.net</a></span>
               </div>
               <!-- Quick Contacts End -->
             </div>
@@ -20,9 +20,9 @@
             <div class="col-md-3 col-sm-3">
               <!-- languaje -->
               <div class="quick-contacts">
-                <a href="/english.html"  >
+                <a href="/index.html"  >
                   <i class="fa fa-globe"></i>
-                  <span> English</span>
+                  <span> Español</span>
                 </a>
               </div>
               <!-- languaje END -->
@@ -50,28 +50,29 @@
 
             <div class="collapse navbar-collapse" id="navbar">
               <ul class="nav navbar-nav navbar-right">
-                <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>index.html">Home</a></li>
-                <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>registration.html">Registro</a></li>
-                <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>cfp.html">CFP</a></li>
-                <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>archive.html">Agenda</a></li>
-                <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>venue.html">Lugar</a></li>
-                <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>guatemala.html">America Central</a></li>
-                <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>about.html">Acerca de</a></li>
-                <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>coc.html">Código de Conducta</a></li>
+                <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>english.html">Home</a></li>
+                <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>en/registration.html">Registration</a></li>
+                <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>en/cfp.html">CFP</a></li>
+                <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>en/archive.html">Schedule</a></li>
+                <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>en/venue.html">Venue</a></li>
+                <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>en/guatemala.html">Central America</a></li>
+
+                <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>en/about.html">About</a></li>
+                <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>en/coc.html">Code of Conduct</a></li>
               </ul>
             </div><!-- /navbar-collapse -->
           </div><!-- /container -->
 
           <!-- Mobile Menu Start -->
           <ul class="wpb-mobile-menu">
-            <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>index.html">Home</a></li>
-            <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>registration.html">Registro</a></li>
-            <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>cfp.html">CFP</a></li>
-            <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>archive.html">Agenda</a></li>
-            <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>venue.html">Lugar</a></li>
-            <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>guatemala.html">Americacentral</a></li>
-            <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>about.html">Acerca de</a></li>
-            <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>coc.html">Código de Conducta</a></li>
+            <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>english.html">Home</a></li>
+            <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>en/registration.html">Registration</a></li>
+            <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>en/cfp.html">CFP</a></li>
+            <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>en/archive.html">Schedule</a></li>
+            <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>en/venue.html">Venue</a></li>
+            <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>en/venue.html">Central America</a></li>
+            <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>en/about.html">About</a></li>
+            <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>en/coc.html">Code of Conduct</a></li>
            </ul>
           <!-- Mobile Menu End -->
         </nav>

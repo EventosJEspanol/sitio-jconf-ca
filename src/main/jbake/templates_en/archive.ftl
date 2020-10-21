@@ -5,7 +5,7 @@
 
 <section id="Main Schedule" class="section">
 
-    <h3>Será definido</h3>
+    <h3>To be defined</h3>
 
 </section>
 

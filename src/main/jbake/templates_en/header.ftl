@@ -1,11 +1,11 @@
 <!DOCTYPE html>
-<html lang="es">
+<html lang="en">
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title>JConf America Central 2020</title>
+    <title>JConf CentroAmérica 2020</title>
 
     <!-- Bootstrap -->
     <link rel="stylesheet" type="text/css" href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>css/bootstrap.min.css" >
@@ -43,7 +43,7 @@
        <meta name="description" content="${content.summary}" />
       	<meta name="twitter:card" value="${content.summary}">
       <#else>
-      	<meta name="twitter:card" value="JConf CentroAmerica 2020, el evento mas grande de la JVM en AmericaCentral.">
+      	<meta name="twitter:card" value="JConf Guatemala 2020, the biggest JVM Event in Central America.">
       </#if>
 
       <!-- Open Graph data -->
@@ -53,7 +53,7 @@
       <#if (content.summary)??>
       	<meta property="og:description" content="${content.summary}" />
       <#else>
-      	<meta property="og:description" content="JConf CentroAmerica 2020, el evento mas grande de la JVM en AmericaCentral." />
+      	<meta property="og:description" content="JConf Guatemala 2020, the biggest JVM Event in Central America." />
       </#if>
     <#else>
         <!-- Twitter Card data -->
@@ -64,7 +64,7 @@
             <meta name="description" content="${content.summary}" />
               <meta name="twitter:card" value="${content.summary}">
             <#else>
-              <meta name="twitter:card" value="JConf CentroAmerica 2020, el evento mas grande de la JVM en AmericaCentral.">
+              <meta name="twitter:card" value="JConf Guatemala 2020, the biggest JVM Event in Central America.">
             </#if>
 
             <!-- Open Graph data -->
@@ -74,17 +74,9 @@
             <#if (content.summary)??>
               <meta property="og:description" content="${content.summary}" />
             <#else>
-              <meta property="og:description" content="JConf CentroAmerica 2020, el evento mas grande de la JVM en AmericaCentral." />
+              <meta property="og:description" content="JConf Guatemala 2020, the biggest JVM Event in Central America." />
             </#if>
     </#if>
-
-      <script async src="https://www.googletagmanager.com/gtag/js?id=<YOUR_GA_ID>"></script>
-      <script>
-          window.dataLayer = window.dataLayer || [];
-          function gtag(){dataLayer.push(arguments);}
-          gtag('js', new Date());
-          gtag('config', '<YOUR_GA_ID>');
-      </script>
 
   </head>
   <body>
