@@ -97,6 +97,7 @@
         </a>
       </div>
     </div>
+
     <!-- Main Slider Section End -->
     <section class="countdown-timer section">
         <div class="container">
@@ -199,8 +200,19 @@
     <div class="container">
       <div class="row">
         <div class="col-md-12">
-          <h2 class="section-title wow fadeInUp" data-wow-delay="0s">Partners</h2>
-          <p class="section-subcontent wow fadeInUp" data-wow-delay="0.2s">Damos las gracias a quienes apoyan nuestras comunidades.</p>
+          <h2 class="section-title wow fadeInUp" data-wow-delay="0s">Patrocinan</h2>
+          <p class="section-subcontent wow fadeInUp" data-wow-delay="0.2s">Patrocinadores de este gran Evento.</p>
+
+            <div class="col-md-2 col-sm-1 col-xs-1">
+                <div class="spnsors-logo wow fadeInUp" data-wow-delay="0.1s">
+                    <a href="https://www.jetbrains.com/" target="_blank">
+                        <img width="100px;"  height="100px;" class="img-responsive center-block" src="<#if (content.rootpath)??>${content.rootpath}<#else></#if>img/sponsors/jetbrains.png"
+                             alt="JetBrains company logo"
+                             title="JetBrains company logo">
+                    </a>
+                </div>
+            </div>
+
         </div>
       </div>
       <div class="row">
