@@ -196,13 +196,24 @@
     <div class="container">
       <div class="row">
         <div class="col-md-12">
-          <h2 class="section-title wow fadeInUp" data-wow-delay="0s">Partners</h2>
-          <p class="section-subcontent wow fadeInUp" data-wow-delay="0.2s">We say thanks to our community partners</p>
+          <h2 class="section-title wow fadeInUp" data-wow-delay="0s">Sponsors</h2>
+          <p class="section-subcontent wow fadeInUp" data-wow-delay="0.2s">Sponsor this grat event.</p>
+
+            <div class="col-md-2 col-sm-1 col-xs-1">
+                <div class="spnsors-logo wow fadeInUp" data-wow-delay="0.1s">
+                    <a href="https://www.jetbrains.com/" target="_blank">
+                        <img width="100px;"  height="100px;" class="img-responsive center-block" src="<#if (content.rootpath)??>${content.rootpath}<#else></#if>img/sponsors/jetbrains.png"
+                             alt="JetBrains company logo"
+                             title="JetBrains company logo">
+                    </a>
+                </div>
+            </div>
+
         </div>
       </div>
       <div class="row">
 
-        <h3 class="section-title wow fadeInUp" data-wow-delay="0s">Java User Groups</h3>
+        <h3 class="section-title wow fadeInUp" data-wow-delay="0s">Java User Groups CentralAmerica</h3>
         <div class="col-md-3 col-sm-3 col-xs-12">
           <div class="spnsors-logo wow fadeInUp" data-wow-delay="0.1s">
             <a href="https://www.guate-jug.net/" target="_blank"><img class="img-responsive center-block" src="<#if (content.rootpath)??>${content.rootpath}<#else></#if>img/partners/guatejug.png" alt="Logo Guatemala"></a>
