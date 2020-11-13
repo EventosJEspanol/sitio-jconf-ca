@@ -197,7 +197,7 @@
       <div class="row">
         <div class="col-md-12">
           <h2 class="section-title wow fadeInUp" data-wow-delay="0s">Sponsors</h2>
-          <p class="section-subcontent wow fadeInUp" data-wow-delay="0.2s">Sponsor this grat event.</p>
+          <p class="section-subcontent wow fadeInUp" data-wow-delay="0.2s">Sponsor this great event.</p>
 
             <div class="col-md-2 col-sm-1 col-xs-1">
                 <div class="spnsors-logo wow fadeInUp" data-wow-delay="0.1s">
@@ -209,11 +209,28 @@
                 </div>
             </div>
 
+            <div class="col-md-3 col-sm-3 col-xs-12">
+                <div class="spnsors-logo wow fadeInUp" data-wow-delay="0.1s">
+                    <a href="https://www.giniem.com//" target="_blank">
+                        <img width="100px;"  height="100px;" class="img-responsive center-block" src="<#if (content.rootpath)??>${content.rootpath}<#else></#if>img/sponsors/giniem.svg"
+                             alt="GinIem company logo"
+                             title="GinIem company logo">
+                    </a>
+                </div>
+            </div>
+
         </div>
       </div>
+
+        <div>
+            <center>
+                <a class=" button-success"  href="https://forms.gle/qEHj5YrhtpzMuV47A" target="_blank" > Be sponsor</a>
+            </center>
+        </div>
+
       <div class="row">
 
-        <h3 class="section-title wow fadeInUp" data-wow-delay="0s">Java User Groups CentralAmerica</h3>
+        <h3 class="section-title wow fadeInUp" data-wow-delay="0s">Java User Groups Central America</h3>
         <div class="col-md-3 col-sm-3 col-xs-12">
           <div class="spnsors-logo wow fadeInUp" data-wow-delay="0.1s">
             <a href="https://www.guate-jug.net/" target="_blank"><img class="img-responsive center-block" src="<#if (content.rootpath)??>${content.rootpath}<#else></#if>img/partners/guatejug.png" alt="Logo Guatemala"></a>
