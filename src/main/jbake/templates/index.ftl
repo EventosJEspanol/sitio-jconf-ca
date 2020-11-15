@@ -200,10 +200,11 @@
     <div class="container">
       <div class="row">
         <div class="col-md-12">
+
           <h2 class="section-title wow fadeInUp" data-wow-delay="0s">Patrocinan</h2>
           <p class="section-subcontent wow fadeInUp" data-wow-delay="0.2s">Patrocinadores de este gran Evento.</p>
 
-            <div class="col-md-2 col-sm-1 col-xs-1">
+            <div class="col-md-3 col-sm-3 col-xs-12">
                 <div class="spnsors-logo wow fadeInUp" data-wow-delay="0.1s">
                     <a href="https://www.jetbrains.com/" target="_blank">
                         <img width="100px;"  height="100px;" class="img-responsive center-block" src="<#if (content.rootpath)??>${content.rootpath}<#else></#if>img/sponsors/jetbrains.png"
@@ -212,12 +213,26 @@
                     </a>
                 </div>
             </div>
+            <div class="col-md-3 col-sm-3 col-xs-12">
+                <div class="spnsors-logo wow fadeInUp" data-wow-delay="0.1s">
+                    <a href="https://www.giniem.com//" target="_blank">
+                        <img width="100px;"  height="100px;" class="img-responsive center-block" src="<#if (content.rootpath)??>${content.rootpath}<#else></#if>img/sponsors/giniem.svg"
+                             alt="GinIem company logo"
+                             title="GinIem company logo">
+                    </a>
+                </div>
+            </div>
 
         </div>
       </div>
+        <div>
+            <center>
+                <a class=" button-success"  href="https://forms.gle/ai6tfKjkx2mLm4PZA" target="_blank" > Quiero patrocinar</a>
+            </center>
+        </div>
       <div class="row">
 
-        <h3 class="section-title wow fadeInUp" data-wow-delay="0s">Java User Groups en Centro America</h3>
+        <h3 class="section-title wow fadeInUp" data-wow-delay="0s">Java User Groups de Centro America</h3>
         <div class="col-md-3 col-sm-3 col-xs-12">
           <div class="spnsors-logo wow fadeInUp" data-wow-delay="0.1s">
             <a href="https://www.guate-jug.net/" target="_blank"><img class="img-responsive center-block" src="<#if (content.rootpath)??>${content.rootpath}<#else></#if>img/partners/guatejug.png" alt="Logo Guatemala"></a>

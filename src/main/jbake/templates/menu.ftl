@@ -51,11 +51,11 @@
             <div class="collapse navbar-collapse" id="navbar">
               <ul class="nav navbar-nav navbar-right">
                 <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>index.html">Home</a></li>
-                <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>registration.html">Registro</a></li>
+                <li><a href="https://hopin.to/events/jconf-centroamerica-2020">Registro</a></li>
                 <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>cfp.html">CFP</a></li>
                 <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>archive.html">Agenda</a></li>
                 <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>venue.html">Lugar</a></li>
-                <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>guatemala.html">America Central</a></li>
+                <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>centroamerica.html">America Central</a></li>
                 <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>about.html">Acerca de</a></li>
                 <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>coc.html">Código de Conducta</a></li>
               </ul>
@@ -65,11 +65,11 @@
           <!-- Mobile Menu Start -->
           <ul class="wpb-mobile-menu">
             <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>index.html">Home</a></li>
-            <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>registration.html">Registro</a></li>
+            <li><a href="https://hopin.to/events/jconf-centroamerica-2020">Registro</a></li>
             <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>cfp.html">CFP</a></li>
             <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>archive.html">Agenda</a></li>
             <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>venue.html">Lugar</a></li>
-            <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>guatemala.html">Americacentral</a></li>
+            <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>centroamerica.html">Americacentral</a></li>
             <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>about.html">Acerca de</a></li>
             <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>coc.html">Código de Conducta</a></li>
            </ul>

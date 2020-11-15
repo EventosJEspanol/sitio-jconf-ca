@@ -51,11 +51,11 @@
             <div class="collapse navbar-collapse" id="navbar">
               <ul class="nav navbar-nav navbar-right">
                 <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>english.html">Home</a></li>
-                <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>en/registration.html">Registration</a></li>
+                <li><a href="https://hopin.to/events/jconf-centroamerica-2020">Registration</a></li>
                 <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>en/cfp.html">CFP</a></li>
                 <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>en/archive.html">Schedule</a></li>
                 <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>en/venue.html">Venue</a></li>
-                <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>en/guatemala.html">Central America</a></li>
+                <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>en/centralamerica.html">Central America</a></li>
 
                 <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>en/about.html">About</a></li>
                 <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>en/coc.html">Code of Conduct</a></li>
@@ -66,11 +66,11 @@
           <!-- Mobile Menu Start -->
           <ul class="wpb-mobile-menu">
             <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>english.html">Home</a></li>
-            <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>en/registration.html">Registration</a></li>
+            <li><a href="https://hopin.to/events/jconf-centroamerica-2020">Registration</a></li>
             <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>en/cfp.html">CFP</a></li>
             <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>en/archive.html">Schedule</a></li>
             <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>en/venue.html">Venue</a></li>
-            <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>en/venue.html">Central America</a></li>
+            <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>en/centralamerica.html">Central America</a></li>
             <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>en/about.html">About</a></li>
             <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>en/coc.html">Code of Conduct</a></li>
            </ul>
