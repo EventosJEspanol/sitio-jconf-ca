@@ -53,7 +53,7 @@
                 <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>english.html">Home</a></li>
                 <li><a href="https://hopin.to/events/jconf-centroamerica-2020">Registration</a></li>
                 <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>en/cfp.html">CFP</a></li>
-                <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>en/archive.html">Schedule</a></li>
+                <li><a href="https://hopin.com/events/jconf-centroamerica-2020#schedule">Schedule</a></li>
                 <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>en/venue.html">Venue</a></li>
                 <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>en/centralamerica.html">Central America</a></li>
 
